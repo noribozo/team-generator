@@ -1,0 +1,12 @@
+.team-container {
+    margin-bottom: 1rem;
+    color: rgb(122,168, 241);
+    text-shadow: 0.5px 0.5px white;
+}
+
+.team-container ul {
+    border: 0.1rem solid rgba(128,128,128,0.5);
+    margin: 0;
+    padding: 0.5rem;
+    background-color: #fff;
+}
